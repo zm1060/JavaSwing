@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.osgi_3.17.100.v20211104-1730.jar" sourcepath="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.osgi_3.17.100.v20211104-1730.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.core.commands_3.10.100.v20210722-1426.jar" sourcepath="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.core.commands_3.10.100.v20210722-1426.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.equinox.common_3.15.100.v20211021-1418.jar" sourcepath="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.equinox.common_3.15.100.v20211021-1418.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.equinox.registry_3.11.100.v20211021-1418.jar" sourcepath="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.equinox.registry_3.11.100.v20211021-1418.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.core.runtime_3.24.0.v20210910-0750.jar" sourcepath="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.core.runtime_3.24.0.v20210910-0750.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.text_3.12.0.v20210512-1644.jar" sourcepath="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.text_3.12.0.v20210512-1644.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.118.0.v20211123-0851.jar" sourcepath="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.118.0.v20211123-0851.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.jface_3.24.0.v20211110-1517.jar" sourcepath="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.jface_3.24.0.v20211110-1517.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.jface.text_3.19.0.v20211026-2100.jar" sourcepath="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.jface.text_3.19.0.v20211026-2100.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.ui.workbench_3.124.0.v20211116-0651.jar" sourcepath="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.ui.workbench_3.124.0.v20211116-0651.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/com.ibm.icu_67.1.0.v20200706-1749.jar" sourcepath="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/com.ibm.icu_67.1.0.v20200706-1749.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.ui.forms_3.11.300.v20211022-1451.jar" sourcepath="E:/eclipse-jee-2021-12-R-win32-x86_64/eclipse/plugins/org.eclipse.ui.forms_3.11.300.v20211022-1451.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="/201800800504/javax.xml.bind.jar"/>
+	<classpathentry kind="lib" path="/201800800504/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="/Java/JAVA 2013试题 参考结果/2013/out/production/2013/Mysql/mysql-connector-java-8.0.16.jar"/>
+	<classpathentry kind="lib" path="src/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
